@@ -39,6 +39,5 @@ D:\JiaYing\TestProject\LearnNotes\LearnNotes\bin\System.Web.Http.WebHost.xml
 D:\JiaYing\TestProject\LearnNotes\LearnNotes\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
 D:\JiaYing\TestProject\LearnNotes\LearnNotes\bin\zh-Hans\System.Web.Http.resources.dll
 D:\JiaYing\TestProject\LearnNotes\LearnNotes\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
-D:\JiaYing\TestProject\LearnNotes\LearnNotes\obj\Debug\LearnNotes.csprojResolveAssemblyReference.cache
 D:\JiaYing\TestProject\LearnNotes\LearnNotes\obj\Debug\LearnNotes.dll
 D:\JiaYing\TestProject\LearnNotes\LearnNotes\obj\Debug\LearnNotes.pdb
