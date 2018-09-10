@@ -52,7 +52,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\LearnNotes\LearnNotes.WebApi.csproj">
+    <ProjectReference Include="..\LearnNotes\LearnNotes.csproj">
       <Project>{C149CEFB-F491-4BE4-BA11-986D18FC994B}</Project>
       <Name>LearnNotes.WebApi</Name>
     </ProjectReference>

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnNotes.WebApi", "LearnNotes\LearnNotes.WebApi.csproj", "{C149CEFB-F491-4BE4-BA11-986D18FC994B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnNotes", "LearnNotes\LearnNotes.csproj", "{C149CEFB-F491-4BE4-BA11-986D18FC994B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnNotes.Tests", "LearnNotes.Tests\LearnNotes.Tests.csproj", "{159BB1F9-067A-444E-A1B9-A67259CABD44}"
 EndProject
