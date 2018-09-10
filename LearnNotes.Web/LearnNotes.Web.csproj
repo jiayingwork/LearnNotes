@@ -94,10 +94,43 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Common\bootstrap3\css\bootstrap-grid.css" />
+    <Content Include="Common\bootstrap3\css\bootstrap-grid.min.css" />
+    <Content Include="Common\bootstrap3\css\bootstrap-reboot.css" />
+    <Content Include="Common\bootstrap3\css\bootstrap-reboot.min.css" />
+    <Content Include="Common\bootstrap3\css\bootstrap.css" />
+    <Content Include="Common\bootstrap3\css\bootstrap.min.css" />
+    <Content Include="Common\bootstrap3\js\bootstrap.bundle.js" />
+    <Content Include="Common\bootstrap3\js\bootstrap.bundle.min.js" />
+    <Content Include="Common\bootstrap3\js\bootstrap.js" />
+    <Content Include="Common\bootstrap3\js\bootstrap.min.js" />
+    <Content Include="Common\JS\jquery.min.js" />
+    <Content Include="Common\layer\layer.js" />
+    <Content Include="Common\layer\mobile\layer.js" />
+    <Content Include="Common\layer\mobile\need\layer.css" />
+    <Content Include="Common\layer\theme\default\icon-ext.png" />
+    <Content Include="Common\layer\theme\default\icon.png" />
+    <Content Include="Common\layer\theme\default\layer.css" />
+    <Content Include="Common\layer\theme\default\loading-0.gif" />
+    <Content Include="Common\layer\theme\default\loading-1.gif" />
+    <Content Include="Common\layer\theme\default\loading-2.gif" />
+    <Content Include="Login\CSS\login.css" />
+    <Content Include="Login\Image\login_logo.png" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Common\bootstrap3\css\.DS_Store" />
+    <Content Include="Common\bootstrap3\css\bootstrap-grid.css.map" />
+    <Content Include="Common\bootstrap3\css\bootstrap-grid.min.css.map" />
+    <Content Include="Common\bootstrap3\css\bootstrap-reboot.css.map" />
+    <Content Include="Common\bootstrap3\css\bootstrap-reboot.min.css.map" />
+    <Content Include="Common\bootstrap3\css\bootstrap.css.map" />
+    <Content Include="Common\bootstrap3\css\bootstrap.min.css.map" />
+    <Content Include="Common\bootstrap3\js\bootstrap.bundle.js.map" />
+    <Content Include="Common\bootstrap3\js\bootstrap.bundle.min.js.map" />
+    <Content Include="Common\bootstrap3\js\bootstrap.js.map" />
+    <Content Include="Common\bootstrap3\js\bootstrap.min.js.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -117,7 +150,7 @@
   <ItemGroup>
     <Folder Include="Common\CSS\" />
     <Folder Include="Common\Image\" />
-    <Folder Include="Common\JS\" />
+    <Folder Include="Login\JS\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

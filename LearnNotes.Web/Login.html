@@ -6,14 +6,35 @@
     <meta name="keywords" content="学习,笔记" />
     <meta name="description" content="学习笔记" />
     <meta name="author" content="jiaying" />
-    <link href="Common/bootstrap3/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="Login/CSS/login.css" rel="stylesheet" />
+    <!--<link href="Common/bootstrap3/css/bootstrap.min.css" rel="stylesheet" />-->
     <script src="Common/JS/jquery.min.js"></script>
-    <script src="Common/bootstrap3/js/bootstrap.min.js"></script>
+    <!--<script src="Common/bootstrap3/js/bootstrap.min.js"></script>-->
 </head>
 <body>
-    测试
-    <table></table>
-
-
+    <div id="logindiv" class="logindiv">
+        <form>
+            <div class="logo">
+                <a href="javascript:void(0)">
+                    <img src="Login/Image/login_logo.png" class="logoimg"/>
+                </a>
+            </div>
+            <div class="item">
+                <input type="text" initial="off" name="loginname" id="loginname" tabindex="1" maxlength="45" placeholder="手机号" aria-invalid="false" class="logintext" />
+                <p class="tip" style="display: none;"></p>
+            </div>
+            <div class="item">
+                <input type="password" name="password" initial="off" tabindex="2" placeholder="密码" aria-required="true" aria-invalid="false" class="logintext">
+                <p class="tip" style="display: none;"></p>
+            </div>
+            <div class="item">
+                <input type="submit" tabindex="3" id="login-btn" value="登陆" class="btn">
+            </div>
+            <div class="item">
+                <div class="forgetpass"><a href="forget">忘记密码</a> <a href="register">免费注册</a></div>
+                <div class="remeberpass"><label><input type="checkbox"> 记住密码</label></div>
+            </div>
+        </form>
+    </div>
 </body>
 </html>
