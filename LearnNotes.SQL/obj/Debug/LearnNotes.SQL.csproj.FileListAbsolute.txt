@@ -1,0 +1,4 @@
+D:\JiaYing\TestProject\LearnNotes\LearnNotes.SQL\bin\Debug\LearnNotes.SQL.dll
+D:\JiaYing\TestProject\LearnNotes\LearnNotes.SQL\bin\Debug\LearnNotes.SQL.pdb
+D:\JiaYing\TestProject\LearnNotes\LearnNotes.SQL\obj\Debug\LearnNotes.SQL.dll
+D:\JiaYing\TestProject\LearnNotes\LearnNotes.SQL\obj\Debug\LearnNotes.SQL.pdb

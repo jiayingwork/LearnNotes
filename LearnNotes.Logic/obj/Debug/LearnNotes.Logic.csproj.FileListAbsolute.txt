@@ -1,0 +1,4 @@
+D:\JiaYing\TestProject\LearnNotes\LearnNotes.Logic\bin\Debug\LearnNotes.Logic.dll
+D:\JiaYing\TestProject\LearnNotes\LearnNotes.Logic\bin\Debug\LearnNotes.Logic.pdb
+D:\JiaYing\TestProject\LearnNotes\LearnNotes.Logic\obj\Debug\LearnNotes.Logic.dll
+D:\JiaYing\TestProject\LearnNotes\LearnNotes.Logic\obj\Debug\LearnNotes.Logic.pdb
