@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnNotes.Logic", "LearnNo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnNotes.Web", "LearnNotes.Web\LearnNotes.Web.csproj", "{F3B48322-779F-46FF-A4F5-65B6DEFC721D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnNotes.Framework", "LearnNotes.Framework\LearnNotes.Framework.csproj", "{371DD97F-7F0A-4ABF-8B50-31520F3B99C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F3B48322-779F-46FF-A4F5-65B6DEFC721D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3B48322-779F-46FF-A4F5-65B6DEFC721D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3B48322-779F-46FF-A4F5-65B6DEFC721D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{371DD97F-7F0A-4ABF-8B50-31520F3B99C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{371DD97F-7F0A-4ABF-8B50-31520F3B99C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{371DD97F-7F0A-4ABF-8B50-31520F3B99C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{371DD97F-7F0A-4ABF-8B50-31520F3B99C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

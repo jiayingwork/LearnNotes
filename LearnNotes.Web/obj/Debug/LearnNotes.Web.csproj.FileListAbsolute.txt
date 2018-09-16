@@ -63,3 +63,4 @@ D:\JiaYing\TestProject\LearnNotes\LearnNotes.Web\bin\Microsoft.ApplicationInsigh
 D:\JiaYing\TestProject\LearnNotes\LearnNotes.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\JiaYing\TestProject\LearnNotes\LearnNotes.Web\obj\Debug\LearnNotes.Web.dll
 D:\JiaYing\TestProject\LearnNotes\LearnNotes.Web\obj\Debug\LearnNotes.Web.pdb
+D:\JiaYing\TestProject\LearnNotes\LearnNotes.Web\obj\Debug\LearnNotes.Web.csprojResolveAssemblyReference.cache

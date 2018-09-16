@@ -38,3 +38,36 @@
     </div>
 </body>
 </html>
+<script type="text/javascript">
+    $(document).ready(function () {
+        debugger;
+       // window.location.protocol = "8480";
+        //protocol + "://" + lzWebApiManagerConst.hostname + ":" + port + 
+        var  protocol= window.location.protocol.replace(":", "");
+        var hostname= window.location.hostname;
+        var port = "8480";
+        $.ajax({
+            type: "get",
+            async: true,
+            dataType: "jsonp",
+            url: protocol + "://" + hostname + ":" + port + "/api/login/savelogininfo/22/3",
+            data: { },
+            success: function (data2) {
+                if (data2.indexOf("successful") > -1) {
+                    alert("提交成功");
+                   
+                }
+                else if (data2 == "添加子包任务失败") {
+                    alert(data2);
+                 
+                }
+                else {
+                    alert(data2);
+                }
+            },
+            error: function (XMLHttpRequest, textStatus, errorThrown) {
+              
+            }
+        });
+    });
+</script>
